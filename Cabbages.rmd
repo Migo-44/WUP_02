@@ -23,11 +23,13 @@ veggy <- cabbages
 
 $H_0$: There is no difference in the average VitC between c39 and c52 methods
 
-$H_A$: There is a statistical difference in average VitC between c39 and c52
+$H_A$: There is a statistical difference in average VitC between c39 and c52 methods
 
 # Methods    
 
-  
+ I predict average VitC based on cultivation methods is a numerical variable, and cultivation methods are categorical 
+
+So I use the helper file, Numerical ~ Cat
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
