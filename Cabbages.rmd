@@ -74,3 +74,7 @@ We conclude that the c52 method has higher levels of VitC on average than the c3
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We wanted to see if there was a difference of VitC levels between the c39 and c52 cultivation methods.  
+We got the data from the Vitc levels in cabbages.  
+We conclude that the c52 method provides more Vitc than the c39 method.   
